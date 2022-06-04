@@ -1,0 +1,21 @@
+*Variables:
+    Una variable es la manera de darle valor a algo, ya sea con números, letras o palabras.
+
+
+*Strings:
+    Son un conjunto de letras o palabras, y son un tipo de variables.
+
+
+*Funciones (argumentos, `return`):
+    Las funciones ejecutan cierta orden o tarea gracias a los argumentos que le damos. Los argumentos son variables
+que les damos a estas funciones, las cuales nos devuelve el resultado de esta tarea a través de un return, si 
+nosotros así lo queremos. También podemos ver al return como una manera de "parar" las funciones
+
+
+*Declaraciones `if`:
+    Es una manera de decirle a la función si seguir ejecturando su tarea, o no. Esto lo podemos hacer en  base
+a las variables que le brindemos
+
+
+*Valores booleanos (`true`, `false`):
+    Los valores booleanos sirven en JavaScript para saber si algo es verdadero o falso.
